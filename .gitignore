@@ -1,2 +1,11 @@
+# Coverage
+/htmlcov/
+/.coverage
+/coverage.xml
+
+# Python
 /.pytest_cache/
 __pycache__/
+
+# Visual Studio Code
+/.vscode/
